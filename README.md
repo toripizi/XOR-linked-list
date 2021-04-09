@@ -1,5 +1,5 @@
 samodzielnie zaimplementowana dwukierunkowa XOR lista w języku C++.
-\n\n
+
 
 Przedstawiam screen zaimplementowanych funkcji do listy: 
 
